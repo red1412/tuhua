@@ -1,0 +1,4 @@
+<view class='duyin'>读音：se</view>
+<view class='zi'>十</view>
+<view class='li'>例:十斤；十八岁；十全十美。</view>
+<view class='yuyin'> {{ message }} </view>

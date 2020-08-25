@@ -1,0 +1,19 @@
+.duyin{
+  margin-top: 200rpx;
+  text-align: center;
+}
+.zi{
+  margin-top: 20rpx;
+  text-align: center;
+  font-size: 60rpx;
+}
+.li{
+  margin-top: 80rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+.yuyin{
+  margin-top: 60rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
